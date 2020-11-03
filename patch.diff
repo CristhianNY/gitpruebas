@@ -1,0 +1,23 @@
+From fd154dfdb801a0d48b56a4ac5cea6968d6b2b76f Mon Sep 17 00:00:00 2001
+From: admariachi <admarichi@gmail.com>
+Date: Tue, 3 Nov 2020 15:14:41 -0500
+Subject: [PATCH] cambiamos este
+
+---
+ Cristhian.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/Cristhian.txt b/Cristhian.txt
+index 4b0530e..fbd4780 100644
+--- a/Cristhian.txt
++++ b/Cristhian.txt
+@@ -1 +1,3 @@
+-abrir prueba ariel bponilla
+\ No newline at end of file
++abrir prueba ariel bponilla
++
++cambiea este 
+\ No newline at end of file
+-- 
+2.27.0.windows.1
+
