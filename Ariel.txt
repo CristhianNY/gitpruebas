@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-abrir prueba ariel bponilla
-
-cambiea este 
-
-hola si señor
-=======
-abrir prueba ariel bponilla
->>>>>>> parent of fd154df... cambiamos este
+contenido
